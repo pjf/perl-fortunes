@@ -6,3 +6,7 @@ Rather than fix perldiag, I just removed the LOOOOOOOOONG deprecated
 feature that was deprecated in 5.000.  I think 15 years is long enough
 for everyone to get the memo.
         -- Michael G Schwern in <4A5549CE.7090404@pobox.com>
+%
+You need to get your technical debt paid off, before the pumpking
+suddenly and accidentally calls it in, and bankrupts you.
+        -- Nicholas Clark in <20090709104927.GI60303@plum.flirble.org>
