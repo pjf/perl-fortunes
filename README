@@ -1,0 +1,9 @@
+All these files are in unix fortune format.  That means each fortune
+lines with a percent on a line by itself.
+
+If you've been quoted in a fortune, and don't like it, let me know
+and I'll remove you.
+
+To add new fortunes, fork the repo off github, and send me a pull
+request.  Or send patches/suggestions to
+(pjf+fortunes at perltraining.com.au)
