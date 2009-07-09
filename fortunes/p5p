@@ -1,3 +1,8 @@
 (12:00:06 PM) Alias: For some reason, despite knowing we were talking about
 deprecation I thought "Holy shit that's evil, don't add that feature!"
 %
+Rather than fix perldiag, I just removed the LOOOOOOOOONG deprecated
+"feature".  How long?  October 17, 1994.  That's right, its a perl 4
+feature that was deprecated in 5.000.  I think 15 years is long enough
+for everyone to get the memo.
+        -- Michael G Schwern in <4A5549CE.7090404@pobox.com>
